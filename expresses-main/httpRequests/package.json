@@ -1,0 +1,22 @@
+{
+  "name": "httprequests",
+  "version": "1.0.0",
+  "description": "hello http ",
+  "keywords": [
+    "http"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "expresses"
+  },
+  "license": "ISC",
+  "author": "aaryam",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
